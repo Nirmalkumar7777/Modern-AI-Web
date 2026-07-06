@@ -1,8 +1,6 @@
 📈 Automated Financial Market Surveillance & Insider Trading Detection
 
-🌐 
-[Live Demo]
-(https://1f1e793f-342d-4e64-879c-bf51825d326e-00-302ex7cgr30u1.pike.replit.dev)
+ [Live Demo](https://1f1e793f-342d-4e64-879c-bf51825d326e-00-302ex7cgr30u1.pike.replit.dev)
 Experience the AI-powered Financial Market Surveillance platform in action through the live web application. The system demonstrates real-time market monitoring, insider trading detection, anomaly analysis, risk scoring, investigation workflows, and AI-driven financial intelligence capabilities.
 
 Overview
